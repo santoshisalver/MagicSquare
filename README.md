@@ -15,8 +15,8 @@ The magic square is filled with numbers from `1` to `n^2` in such a way that the
 For `n = 5`, the generated magic square looks like this:
 
 
-'''9  3 22 16 15'''
-'''2 21 20 14  8'''
+```9  3 22 16 15```
+```2 21 20 14  8```
 25 19 13  7  1
 18 12  6  5 24
 11 10  4 23 17
